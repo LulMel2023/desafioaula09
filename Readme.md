@@ -1,0 +1,1 @@
+flexbox para construir o layout da página, mas também colocarmos em pratica o conteúdo ensinado sobre responsividade.
